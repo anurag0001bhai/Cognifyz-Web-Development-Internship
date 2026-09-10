@@ -1,21 +1,62 @@
-# Cognifyz Web Development Internship - Complete Submission
+# Cognifyz Web Development Internship 🚀
 
-This ZIP contains completed runnable projects for Level 1, Level 2 and Level 3.
+This repository contains my complete Web Development Internship projects
+for Cognifyz Technologies.
 
-## Structure
-- Level_1
-  - Task_1_HTML_CSS
-  - Task_2_JavaScript
-- Level_2
-  - Task_1_Frameworks
-  - Task_2_Responsive
-- Level_3
-  - Task_1_Image_Manipulation
-  - Task_2_Landing_Page
+## 📚 Levels Completed
 
-## Run
-Open `index.html` inside any task folder in a modern browser.
-You can also open the root `index.html` as a master project page linking to all six tasks.
+### Level 1 – Basic Web Development
+- HTML/CSS webpage
+- Basic form
+- Navigation menu
+- JavaScript color-changing button
+- Time-based greeting
+- Addition calculator
 
-## Note
-Some demo images and the Bootstrap framework are loaded from public CDNs/online image URLs, so an internet connection gives the best result.
+### Level 2 – Intermediate Web Development
+- Responsive card using front-end framework
+- Responsive grid layout
+- CSS media queries
+- Mobile-friendly hamburger navigation
+
+### Level 3 – Advanced Web Development
+- Image gallery with clickable thumbnails
+- Automatic image slideshow
+- Web Developer Internship landing page
+- Responsive design and CTA section
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Responsive Web Design
+
+## ▶️ How to Run
+
+1. Clone or download this repository.
+2. Open any task folder.
+3. Open `index.html` in a web browser.
+4. For the complete project, open the main `index.html`.
+
+## 📁 Project Structure
+
+```text
+Cognifyz-Web-Development-Internship/
+│
+├── Level_1/
+│   ├── Task_1_HTML_CSS/
+│   └── Task_2_JavaScript/
+│
+├── Level_2/
+│   ├── Task_1_Frameworks/
+│   └── Task_2_Responsive/
+│
+├── Level_3/
+│   ├── Task_1_Image_Manipulation/
+│   └── Task_2_Landing_Page/
+│
+├── index.html
+├── style.css
+└── README.md
