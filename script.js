@@ -1,0 +1,4 @@
+const colors=['#16a34a','#dc2626','#9333ea','#ea580c','#2563eb'];let i=0;
+document.getElementById('color').onclick=()=>{document.getElementById('color').style.background=colors[i++%colors.length]};
+document.getElementById('greet').onclick=()=>{let h=new Date().getHours();alert(h<12?'Good Morning!':h<18?'Good Afternoon!':'Good Evening!')};
+document.getElementById('add').onclick=()=>{let a=document.getElementById('a').value,b=document.getElementById('b').value;if(a===''||b===''){alert('Please enter both numbers.');return}document.getElementById('result').textContent='Result: '+(Number(a)+Number(b))};
